@@ -1,0 +1,9 @@
+# Digital Literacy Project - Requirements
+
+# This project primarily uses web-based tools and does not require
+# installation of Python packages.
+
+# Optional (for future expansion)
+requests
+pandas
+numpy
